@@ -38,3 +38,4 @@ public:
 
 #endif // _APP_DELEGATE_H_
 
+// second test
